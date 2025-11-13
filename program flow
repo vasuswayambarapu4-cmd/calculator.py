@@ -1,0 +1,22 @@
+⚙️ Program Flow Summary
+
+Show menu
+
+Get user’s choice
+
+Ask for two numbers
+
+Perform calculation using the correct function
+
+Display the result
+
+Repeat until user chooses to exit
+🏁 Key Takeaways
+
+The calculator is function-based → modular and readable.
+
+Uses a loop for continuous interaction.
+
+Includes error handling for invalid inputs and divide-by-zero cases.
+
+Scalable — you can easily add more operations (like modulus % or power ^).
