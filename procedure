@@ -1,0 +1,27 @@
+how it works:
+The app displays a menu of available operations.
+
+The user selects an operation (1–4) or chooses 5 to exit.
+
+The program asks for two numbers.
+
+It performs the selected operation and displays the result.
+
+The menu reappears for the next calculation until you exit.
+features :
+🚀 Features
+
+✅ Supports four basic operations:
+
+Addition (+)
+
+Subtraction (-)
+
+Multiplication (*)
+
+Division (/) — includes divide-by-zero check
+
+✅ User-friendly interactive menu
+✅ Input validation for numbers and operations
+✅ Loops until the user chooses to exit
+✅ Well-structured and readable code
